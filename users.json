@@ -1,0 +1,115 @@
+[
+  {
+    "name": "ekin",
+    "surname": "akçiçek",
+    "email": "ekin@gmail.com",
+    "password": "456",
+    "purchaseHistory": [
+      {
+        "ticketId": 6,
+        "eventRef": {
+          "id": 2,
+          "name": "Romeo and Juliet",
+          "type": "Theatre",
+          "posterPath": "romeoandjuliet.jpg",
+          "eventTime": "2026-01-03T16:00:00",
+          "place": "Harbiye Muhsin Ertuğrul Sahnesi",
+          "basePrice": 400.0
+        },
+        "priceTier": "Student",
+        "finalCost": 250.5,
+        "isConfirmed": true
+      }
+    ]
+  },
+  {
+    "name": "elif",
+    "surname": "şahin",
+    "email": "elif@gmail.com",
+    "password": "123",
+    "purchaseHistory": [
+      {
+        "ticketId": 1,
+        "eventRef": {
+          "id": 1,
+          "name": "Shutter Island",
+          "type": "Cinema",
+          "posterPath": "shutter.jpg",
+          "eventTime": "2025-12-23T13:00:00",
+          "place": "Kanyon AVM",
+          "basePrice": 250.0
+        },
+        "priceTier": "Student",
+        "finalCost": 160.5,
+        "isConfirmed": true
+      },
+      {
+        "ticketId": 2,
+        "eventRef": {
+          "id": 1,
+          "name": "Shutter Island",
+          "type": "Cinema",
+          "posterPath": "shutter.jpg",
+          "eventTime": "2025-12-23T13:00:00",
+          "place": "Kanyon AVM",
+          "basePrice": 250.0
+        },
+        "priceTier": "Adult",
+        "finalCost": 260.5,
+        "isConfirmed": true
+      },
+      {
+        "ticketId": 3,
+        "eventRef": {
+          "id": 10,
+          "name": "Harry Potter 3",
+          "type": "Cinema",
+          "posterPath": "default.jpg",
+          "eventTime": "2026-02-07T17:00:00",
+          "place": "Cevahir AVM",
+          "basePrice": 300.0
+        },
+        "priceTier": "Student",
+        "finalCost": 190.5,
+        "isConfirmed": true
+      },
+      {
+        "ticketId": 4,
+        "eventRef": {
+          "id": 9,
+          "name": "Pride and Prejudice",
+          "type": "Cinema",
+          "posterPath": "janeausten.jpg",
+          "eventTime": "2026-01-07T16:00:00",
+          "place": "Akmerkez",
+          "basePrice": 250.0
+        },
+        "priceTier": "Student",
+        "finalCost": 160.5,
+        "isConfirmed": true
+      },
+      {
+        "ticketId": 5,
+        "eventRef": {
+          "id": 7,
+          "name": "Adele",
+          "type": "Concert",
+          "posterPath": "adele.jpg",
+          "eventTime": "2025-07-20T21:00:00",
+          "place": "Royal Albert Hall",
+          "basePrice": 1200.0
+        },
+        "priceTier": "Student",
+        "finalCost": 730.5,
+        "isConfirmed": true
+      }
+    ]
+  },
+  {
+    "name": "admin",
+    "surname": "admin",
+    "email": "admin@gmail.com",
+    "password": "1234",
+    "purchaseHistory": []
+  }
+]

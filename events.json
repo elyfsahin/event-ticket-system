@@ -1,0 +1,119 @@
+[
+  {
+    "id": 2,
+    "name": "Romeo and Juliet",
+    "type": "Theatre",
+    "posterPath": "romeoandjuliet.jpg",
+    "eventTime": "2026-01-03T16:00:00",
+    "place": "Harbiye Muhsin Ertuğrul Sahnesi",
+    "basePrice": 400.0
+  },
+  {
+    "id": 3,
+    "name": "Cimri",
+    "type": "Theatre",
+    "posterPath": "cimri.jpg",
+    "eventTime": "2025-12-30T20:00:00",
+    "place": "Zorlu PSM",
+    "basePrice": 450.0
+  },
+  {
+    "id": 4,
+    "name": "Hamlet",
+    "type": "Theatre",
+    "posterPath": "hamlet1.jpg",
+    "eventTime": "2026-01-15T17:00:00",
+    "place": "Zorlu PSM",
+    "basePrice": 450.0
+  },
+  {
+    "id": 5,
+    "name": "The Weeknd",
+    "type": "Concert",
+    "posterPath": "theweeknd.jpg",
+    "eventTime": "2026-03-12T21:00:00",
+    "place": "Wembley Stadium",
+    "basePrice": 1000.0
+  },
+  {
+    "id": 6,
+    "name": "Tarkan",
+    "type": "Concert",
+    "posterPath": "tarkan.png",
+    "eventTime": "2026-06-10T21:00:00",
+    "place": "Volkswagen Arena",
+    "basePrice": 900.0
+  },
+  {
+    "id": 7,
+    "name": "Adele",
+    "type": "Concert",
+    "posterPath": "adele.jpg",
+    "eventTime": "2025-07-20T21:00:00",
+    "place": "Royal Albert Hall",
+    "basePrice": 1200.0
+  },
+  {
+    "id": 8,
+    "name": "The Pursuit Of Happyness",
+    "type": "Cinema",
+    "posterPath": "happyness.jpg",
+    "eventTime": "2026-01-05T15:00:00",
+    "place": "Kanyon AVM",
+    "basePrice": 200.0
+  },
+  {
+    "id": 9,
+    "name": "Pride and Prejudice",
+    "type": "Cinema",
+    "posterPath": "janeausten.jpg",
+    "eventTime": "2026-01-07T16:00:00",
+    "place": "Akmerkez",
+    "basePrice": 250.0
+  },
+  {
+    "id": 9,
+    "name": "Pride and Prejudice",
+    "type": "Cinema",
+    "posterPath": "janeausten.jpg",
+    "eventTime": "2026-01-07T20:00:00",
+    "place": "Akmerkez",
+    "basePrice": 250.0
+  },
+  {
+    "id": 1,
+    "name": "Shutter Island",
+    "type": "Cinema",
+    "posterPath": "shutter.jpg",
+    "eventTime": "2025-12-29T14:00:00",
+    "place": "Kanyon AVM",
+    "basePrice": 200.0
+  },
+  {
+    "id": 1,
+    "name": "Shutter Island",
+    "type": "Cinema",
+    "posterPath": "shutter.jpg",
+    "eventTime": "2025-12-29T19:00:00",
+    "place": "Kanyon AVM",
+    "basePrice": 200.0
+  },
+  {
+    "id": 10,
+    "name": "Harry Potter 3",
+    "type": "Cinema",
+    "posterPath": "default.jpg",
+    "eventTime": "2026-02-07T17:00:00",
+    "place": "Cevahir AVM",
+    "basePrice": 300.0
+  },
+  {
+    "id": 12,
+    "name": "Sizwe Banzi Is Dead",
+    "type": "Theatre",
+    "posterPath": "sizwebanzi.jpg",
+    "eventTime": "2026-01-09T14:30:00",
+    "place": "Zorlu PSM",
+    "basePrice": 350.0
+  }
+]
